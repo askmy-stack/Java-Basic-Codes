@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Practice {
+public class Traingular Pattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please Enter the Number of Choice:");
